@@ -23,7 +23,7 @@
 
 <br />
 
-## Features
+## Features2
 
 - 🔩 **Easily Customizable**
 - ⚛️ **Reach Features**
